@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Math Et al.</title>
+    <link>https://dibyajyoti.net/tags/</link>
+    <description>Recent content in Tags on Math Et al.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://dibyajyoti.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tutorial</title>
+      <link>https://dibyajyoti.net/tags/tutorial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyajyoti.net/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blogdown</title>
+      <link>https://dibyajyoti.net/tags/blogdown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyajyoti.net/tags/blogdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>https://dibyajyoti.net/tags/markdown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyajyoti.net/tags/markdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MathJax</title>
+      <link>https://dibyajyoti.net/tags/mathjax/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyajyoti.net/tags/mathjax/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pandoc</title>
+      <link>https://dibyajyoti.net/tags/pandoc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyajyoti.net/tags/pandoc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RStudio</title>
+      <link>https://dibyajyoti.net/tags/rstudio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyajyoti.net/tags/rstudio/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
